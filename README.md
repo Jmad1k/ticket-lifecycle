@@ -15,6 +15,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket v1.15.8
 
 <h2>Operating Systems Used </h2>
 
