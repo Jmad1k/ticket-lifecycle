@@ -34,6 +34,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![Agent Dashboard](images/UserDash01.png)
 *Figure 1: The osTicket Agent Dashboard (Agent "Bobby") displaying a newly created ticket.*
 
+![User Submission Form](images/TickIntake.png)
+*Figure 2: The User Portal submission form used to initiate a new support request.*
+
 <p>
 
 <br />
