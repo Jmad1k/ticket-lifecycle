@@ -37,6 +37,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![User Submission Form](images/TickIntake.png)
 *Figure 2: The User Portal submission form used to initiate a new support request.*
 
+![Submission Success](images/INtakeConfirm.png)
+*Figure 2(a): The confirmation screen indicating a successful ticket submission.*
+
 <p>
 
 <br />
