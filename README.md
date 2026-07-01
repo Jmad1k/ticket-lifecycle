@@ -30,12 +30,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+#### 1. Intake
+![Agent Dashboard](images/UserDash01.png)
+*Figure 1: The osTicket Agent Dashboard (Agent "Bobby") displaying a newly created ticket.*
+
 <p>
-<img width="1190" height="619" alt="SIEM   SOAR" src="https://github.com/user-attachments/assets/c6d6d1a6-cdd1-4a12-8deb-4da3d706806a" />
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
 <br />
 
 <p>
